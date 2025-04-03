@@ -2,7 +2,7 @@
 Scientist with combined experimental and computational expertise to generate and analyze high-dimensional bulk and single-cell data. 
 
 ## Education
-- PhD, Computational and Systems Immunology | Stanford University (_ongoing_) 
+- PhD, Computational and Systems Immunology | Stanford University (_ongoing_)<br/>
 Bio-X SIGF, Felix and Heather Baker Interdisciplinary Graduate Fellow 
 
 - MS, Health Informatics | University of San Francisco (_2019_)	 			        		
