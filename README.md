@@ -8,11 +8,28 @@
 Scientist with combined experimental and computational expertise to generate and analyze high-dimensional bulk and single-cell data. 
 
 ## Projects
+### Cancer Immunotherapy
+![Cancer Immunotherapy](/assets/img/cancer_immunotherapy.png)
 
+[Biological Data Science Consultant, publication: Prior anti-CTLA-4 therapy impacts molecular characteristics associated with anti-PD-1 response in advanced melanoma](https://doi.org/10.1016/j.ccell.2023.03.010)
+[Biological Data Science Consultant, publication: Immunologic signatures of response and resistance to nivolumab with ipilimumab in advanced metastatic cancer](https://doi.org/10.1084/jem.20240152)
+
+### Spatial Biology
+![Spatial Biology](/assets/img/spatial.png)
+[publication: Spatial proteomics reveals human microglial states shaped by anatomy and neuropathology](https://doi.org/10.21203/rs.3.rs-2987263/v1)
+
+
+### Single-cell computational biology
+![Spatial Biology](/assets/img/sc_comp_bio.png)
+[publication: Supervised dimensionality reduction for exploration of single-cell data by HSS-LDA](https://doi.org/10.1016/j.patter.2022.100536)
+[publication: High-dimensional profiling of pediatric immune responses to solid organ transplantation](https://doi.org/10.1016/j.xcrm.2023.101147)
+
+
+
+## Interview: 
+Amouzgar, Meelad* & Glass, David* . (2022). Data science through the lens of systems immunology. Patterns. 3. 100574. 10.1016/j.patter.2022.100574.  
 
 ## Publications
-# Interview: Amouzgar, Meelad* & Glass, David* . (2022). Data science through the lens of systems immunology. Patterns. 3. 100574. 10.1016/j.patter.2022.100574.  
-
 * = equal contribution
 
 1. (unpublished) Meelad Amouzgar, Tara Murty, Patricia Favaro, Avery Lam, Daniel Ho, Trevor Bruce, Elena Sotillo, Rob Tibshirani, Crystal Mackall, Sean Bendall. Deciphering the cell-intrinsic crosstalk between cell cycle sensing and TCR activation.
