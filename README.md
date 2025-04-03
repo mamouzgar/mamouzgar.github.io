@@ -2,8 +2,7 @@
 Scientist with combined experimental and computational expertise to generate and analyze high-dimensional bulk and single-cell data. 
 
 ## Education
-- PhD, Computational and Systems Immunology | Stanford University (_ongoing_)
-<br />
+- PhD, Computational and Systems Immunology | Stanford University (_ongoing_) 
 Bio-X SIGF, Felix and Heather Baker Interdisciplinary Graduate Fellow 
 
 - MS, Health Informatics | University of San Francisco (_2019_)	 			        		
@@ -33,20 +32,20 @@ Bio-X SIGF, Felix and Heather Baker Interdisciplinary Graduate Fellow
 ### Cancer Immunotherapy
 ![Cancer Immunotherapy](/assets/img/cancer_immunotherapy.png)
 
-[Biological Data Science Consultant, publication: Prior anti-CTLA-4 therapy impacts molecular characteristics associated with anti-PD-1 response in advanced melanoma](https://doi.org/10.1016/j.ccell.2023.03.010)
-<br />
-[Biological Data Science Consultant, publication: Immunologic signatures of response and resistance to nivolumab with ipilimumab in advanced metastatic cancer](https://doi.org/10.1084/jem.20240152)
+[Biological Data Science Consultant, publication: Prior anti-CTLA-4 therapy impacts molecular characteristics associated with anti-PD-1 response in advanced melanoma](https://doi.org/10.1016/j.ccell.2023.03.010)<br/>
+
+[Biological Data Science Consultant, publication: Immunologic signatures of response and resistance to nivolumab with ipilimumab in advanced metastatic cancer](https://doi.org/10.1084/jem.20240152)<br/>
 
 ### Spatial Biology
 ![Spatial Biology](/assets/img/spatial.png)
-[publication: Spatial proteomics reveals human microglial states shaped by anatomy and neuropathology](https://doi.org/10.21203/rs.3.rs-2987263/v1)
+[publication: Spatial proteomics reveals human microglial states shaped by anatomy and neuropathology](https://doi.org/10.21203/rs.3.rs-2987263/v1)<br/>
 
 
 ### Single-cell computational biology
 ![Spatial Biology](/assets/img/sc_comp_bio.png)
-[publication: Supervised dimensionality reduction for exploration of single-cell data by HSS-LDA](https://doi.org/10.1016/j.patter.2022.100536)
-<br />
-[publication: High-dimensional profiling of pediatric immune responses to solid organ transplantation](https://doi.org/10.1016/j.xcrm.2023.101147)
+[publication: Supervised dimensionality reduction for exploration of single-cell data by HSS-LDA](https://doi.org/10.1016/j.patter.2022.100536)<br/>
+
+[publication: High-dimensional profiling of pediatric immune responses to solid organ transplantation](https://doi.org/10.1016/j.xcrm.2023.101147)<br/>
 
 
 
