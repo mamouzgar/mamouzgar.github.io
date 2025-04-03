@@ -2,13 +2,11 @@
 Scientist with combined experimental and computational expertise to generate and analyze high-dimensional bulk and single-cell data. 
 
 ## Education
-- PhD, Computational and Systems Immunology | Stanford University (_ongoing_)<br/>
-Bio-X SIGF, Felix and Heather Baker Interdisciplinary Graduate Fellow 
-
+- PhD, Computational and Systems Immunology | Stanford University (_ongoing_)
 - MS, Health Informatics | University of San Francisco (_2019_)	 			        		
 - BS, Biochemistry and Molecular Biology | University of California, Davis (_2016_)
 
-
+Bio-X SIGF, Felix and Heather Baker Interdisciplinary Graduate Fellow 
 
 
 ## Technical skills: 
@@ -17,10 +15,10 @@ Bio-X SIGF, Felix and Heather Baker Interdisciplinary Graduate Fellow
 - Expert user of popular single-cell analysis tools like Seurat, Scanpy, AnnData structures, SquidPy, etc as well as general statistical analysis and computational biology methods.
 
 ## Work experience:
-**PhD Candidate | Stanford University (_2020-present_)
+**PhD Candidate @ Stanford University (_2020-present_)**
 - Thesis: Cell-intrinsic crosstalk between cell cycle sensing and TCR activation modulate cell fate
 
-**Independent Biological Data Science Consultant (contractor) |  (_08/2020-Present_)
+**Independent Biological Data Science Consultant (contractor) | (_08/2020-Present_)**
 - Contracted with diverse companies across fieldsof cancer immunotherapy, spatial immuno-oncology, and small molecule cell therapy for cancer and autoimmunity.
 - Manage end-to-end bulk and single-cell bioinformatics processing and analysis from raw data to final analysis for diverse data types (sequencing, flow, microscopy, etc).
 - Fully manage data processing and analysis, included human and mouse genome decoding for RNA sequencing assays, celltype annotations, RNAseq deconvolution, cell-cell interactions analysis from single-cell transcriptomics data, drug perturbation comparisons, pharmacodynamics analysis, and more.
@@ -29,6 +27,12 @@ Bio-X SIGF, Felix and Heather Baker Interdisciplinary Graduate Fellow
 - Quantify contributors of batch and biological variation at the feature or cell-annotation level in thousands of cores across multiple tissue microarrays from different experimental runs. 	
 
 ## Projects
+### Single-cell computational biology
+![Spatial Biology](/assets/img/sc_comp_bio.png)
+[publication: Supervised dimensionality reduction for exploration of single-cell data by HSS-LDA](https://doi.org/10.1016/j.patter.2022.100536)<br/>
+
+[publication: High-dimensional profiling of pediatric immune responses to solid organ transplantation](https://doi.org/10.1016/j.xcrm.2023.101147)<br/>
+
 ### Cancer Immunotherapy
 ![Cancer Immunotherapy](/assets/img/cancer_immunotherapy.png)
 
@@ -40,12 +44,6 @@ Bio-X SIGF, Felix and Heather Baker Interdisciplinary Graduate Fellow
 ![Spatial Biology](/assets/img/spatial.png)
 [publication: Spatial proteomics reveals human microglial states shaped by anatomy and neuropathology](https://doi.org/10.21203/rs.3.rs-2987263/v1)<br/>
 
-
-### Single-cell computational biology
-![Spatial Biology](/assets/img/sc_comp_bio.png)
-[publication: Supervised dimensionality reduction for exploration of single-cell data by HSS-LDA](https://doi.org/10.1016/j.patter.2022.100536)<br/>
-
-[publication: High-dimensional profiling of pediatric immune responses to solid organ transplantation](https://doi.org/10.1016/j.xcrm.2023.101147)<br/>
 
 
 
