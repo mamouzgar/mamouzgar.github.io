@@ -1,17 +1,39 @@
 # Scientist
 
 ## Education
-- PhD, Computational and Systems Immunology | Stanford University (_ongoing_)								       		
+- PhD, Computational and Systems Immunology | Stanford University (_ongoing_)
+<br><br>
+Bio-X SIGF, Felix and Heather Baker Interdisciplinary Graduate Fellow 
+
 - MS, Health Informatics | University of San Francisco (_2019_)	 			        		
 - BS, Biochemistry and Molecular Biology | University of California, Davis (_2016_)
 
 Scientist with combined experimental and computational expertise to generate and analyze high-dimensional bulk and single-cell data. 
+
+
+## Technical skills: 
+- Languages: R (expert), Python (advanced), bash (functional). Experience with other languages like WDL, C++ 
+- Method development in both R and Python.
+- Expert user of popular single-cell analysis tools like Seurat, Scanpy, AnnData structures, SquidPy, etc as well as general statistical analysis and computational biology methods.
+
+## Work experience:
+**PhD Candidate | Stanford University (_2020-present_)
+- Thesis: Cell-intrinsic crosstalk between cell cycle sensing and TCR activation modulate cell fate
+
+**Independent Biological Data Science Consultant (contractor) |  (_08/2020-Present_)
+- Contracted with diverse companies across fieldsof cancer immunotherapy, spatial immuno-oncology, and small molecule cell therapy for cancer and autoimmunity.
+- Manage end-to-end bulk and single-cell bioinformatics processing and analysis from raw data to final analysis for diverse data types (sequencing, flow, microscopy, etc).
+- Fully manage data processing and analysis, included human and mouse genome decoding for RNA sequencing assays, celltype annotations, RNAseq deconvolution, cell-cell interactions analysis from single-cell transcriptomics data, drug perturbation comparisons, pharmacodynamics analysis, and more.
+- Develop computational algorithms for celltype/state analysis and tissue microenvironments and evaluate associations across clinical, and spatial phenotypes (cancer, glioblastoma, alzheimer's disease). 
+- Build computational pipelines for automated cell phenotyping in multiplexed imaging data from diverse tissue types in thousands of tumor core images across dozens of tissue microarrays. 
+- Quantify contributors of batch and biological variation at the feature or cell-annotation level in thousands of cores across multiple tissue microarrays from different experimental runs. 	
 
 ## Projects
 ### Cancer Immunotherapy
 ![Cancer Immunotherapy](/assets/img/cancer_immunotherapy.png)
 
 [Biological Data Science Consultant, publication: Prior anti-CTLA-4 therapy impacts molecular characteristics associated with anti-PD-1 response in advanced melanoma](https://doi.org/10.1016/j.ccell.2023.03.010)
+<br><br>
 [Biological Data Science Consultant, publication: Immunologic signatures of response and resistance to nivolumab with ipilimumab in advanced metastatic cancer](https://doi.org/10.1084/jem.20240152)
 
 ### Spatial Biology
@@ -22,11 +44,13 @@ Scientist with combined experimental and computational expertise to generate and
 ### Single-cell computational biology
 ![Spatial Biology](/assets/img/sc_comp_bio.png)
 [publication: Supervised dimensionality reduction for exploration of single-cell data by HSS-LDA](https://doi.org/10.1016/j.patter.2022.100536)
+<br><br>
 [publication: High-dimensional profiling of pediatric immune responses to solid organ transplantation](https://doi.org/10.1016/j.xcrm.2023.101147)
 
 
 
 ## Interview: 
+
 Amouzgar, Meelad* & Glass, David* . (2022). Data science through the lens of systems immunology. Patterns. 3. 100574. 10.1016/j.patter.2022.100574.  
 
 ## Publications
