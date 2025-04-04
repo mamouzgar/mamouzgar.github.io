@@ -19,7 +19,7 @@ Bio-X SIGF, Felix and Heather Baker Interdisciplinary Graduate Fellow
 - Thesis: Cell-intrinsic crosstalk between cell cycle sensing and TCR activation modulate cell fate
 
 **Independent Biological Data Science Consultant (contractor) | (_08/2020-Present_)**
-- Contracted with diverse companies across fieldsof cancer immunotherapy, spatial immuno-oncology, and small molecule cell therapy for cancer and autoimmunity.
+- Contracted with diverse companies across fields of cancer immunotherapy, spatial immuno-oncology, and small molecule cell therapy for cancer and autoimmunity.
 - Manage end-to-end bulk and single-cell bioinformatics processing and analysis from raw data to final analysis for diverse data types (sequencing, flow, microscopy, etc).
 - Fully manage data processing and analysis, included human and mouse genome decoding for RNA sequencing assays, celltype annotations, RNAseq deconvolution, cell-cell interactions analysis from single-cell transcriptomics data, drug perturbation comparisons, pharmacodynamics analysis, and more.
 - Develop computational algorithms for celltype/state analysis and tissue microenvironments and evaluate associations across clinical, and spatial phenotypes (cancer, glioblastoma, alzheimer's disease). 
@@ -28,7 +28,7 @@ Bio-X SIGF, Felix and Heather Baker Interdisciplinary Graduate Fellow
 
 ## Projects
 ### Single-cell computational biology
-![Spatial Biology](/assets/img/sc_comp_bio.png)
+![Computational Biology](/assets/img/sc_comp_bio.png)
 [publication: Supervised dimensionality reduction for exploration of single-cell data by HSS-LDA](https://doi.org/10.1016/j.patter.2022.100536)<br/>
 
 [publication: High-dimensional profiling of pediatric immune responses to solid organ transplantation](https://doi.org/10.1016/j.xcrm.2023.101147)<br/>
