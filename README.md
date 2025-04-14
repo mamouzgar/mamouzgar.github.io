@@ -1,5 +1,5 @@
 # Scientist
-Welcome to my page! I am a PhD candidate at Stanford University in the Computational and Systems Immunology program. My work focuses on single-cell technology development to decipher the crosstalk between cell cycle and T cell differentiation though I dabble in other scientific fields as well. I have 5 years of experience as a Biological Data Science consultant working with cancer immunotherapy, AI-native spatial biology, and cell therapy startups, offering combined experimental and computational expertise in generating and analyzing high-dimensional bulk and single-cell data.
+Welcome to my page! I am a PhD candidate at Stanford University in the Computational and Systems Immunology program. My work focuses on single-cell technology development to decipher the crosstalk between cell cycle and T cell differentiation. I have 5 years of experience as a Biological Data Science consultant working with cancer immunotherapy, AI-native spatial biology, and cell therapy startups, offering combined experimental and computational expertise in generating and analyzing high-dimensional bulk and single-cell data.
 Find me on LinkedIn!
 
 
